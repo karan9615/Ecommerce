@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <div className='footer-container'>
       <p>
-        2022 Karan's ecommerce All Rights Reserved
+        2022 Karan &#39; s ecommerce All Rights Reserved
       </p>
       <p className='icons'>
       <AiFillInstagram />
